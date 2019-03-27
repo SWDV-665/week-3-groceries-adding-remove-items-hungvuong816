@@ -17,3 +17,8 @@ export class TabsPage {
 
   }
 }
+
+
+
+
+export class SlidingPage { }
